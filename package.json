@@ -1,0 +1,18 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "This is React  learning by aakash singh ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namastereact"
+  ],
+  "author": "Aakash Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

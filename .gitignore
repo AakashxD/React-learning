@@ -1,0 +1,3 @@
+/node_modules
+# for package and package json need bcs it maintain all dependecy
+#  we can regenerate node modules in single command that is the reason why we dont push node modules in git 
